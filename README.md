@@ -11,6 +11,7 @@ Welcome to my **Certification Repository!** 🏆 Here, I showcase my achievement
 🎖️ [ICPC Asia Dhaka Preliminary 2024 - Honorable Mention](https://github.com/FaisalMahi/FaisalMahi_Certificate/blob/main/2025-The%202024%20ICPC%20Asia%20Dhaka%20Preliminary-HONORABLE.pdf)  
 🎖️ [ICPC Asia Dhaka Preliminary 2024 - Participation](https://github.com/FaisalMahi/FaisalMahi_Certificate/blob/main/2025-The%202024%20ICPC%20Asia%20Dhaka%20Preliminary-Khondaker%20Faisal%20Ibn%20Aziz-HONORABLE.pdf)   
 🎖️ [Stanford University - Code in Place](https://github.com/FaisalMahi/FaisalMahi_Certificate/blob/main/Stanford_University_CodeInPlace_Certificate.pdf)  
+🎖️ [HackerRank - Problem Solving(Basic)](https://github.com/FaisalMahi/FaisalMahi_Certificate/blob/main/HackerRank_Problem_Solving(Basic)_Certificate.pdf)  
 
 
 ---
